@@ -1,12 +1,24 @@
 {
   "name": "ts_study",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shunta0213/ts_study.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shunta0213/ts_study/issues"
+  },
+  "homepage": "https://github.com/shunta0213/ts_study#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^18.7.4",
+    "typescript": "^4.7.4"
+  }
 }
